@@ -1,7 +1,7 @@
 
 {
   "name": "react-native-device-locker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,9 @@
     "react-native"
   ],
   "author": "John Hu",
-  "license": "",
+  "license": "MIT",
+  "homepage": "https://github.com/Vosie/react-native-device-locker",
+  "url": "https://github.com/Vosie/react-native-device-locker/issues",
   "peerDependencies": {
     "react-native": "0.49.3",
     "react-native-windows": "0.49.0-rc.2"
