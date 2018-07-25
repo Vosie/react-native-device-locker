@@ -1,7 +1,7 @@
 
 {
   "name": "react-native-device-locker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,8 +15,8 @@
   "homepage": "https://github.com/Vosie/react-native-device-locker",
   "url": "https://github.com/Vosie/react-native-device-locker/issues",
   "peerDependencies": {
-    "react-native": "0.49.3",
-    "react-native-windows": "0.49.0-rc.2"
+    "react-native": "^0.49.3",
+    "react-native-windows": "^0.49.0-rc.2"
 
   }
 }
